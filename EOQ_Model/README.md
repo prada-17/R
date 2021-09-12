@@ -1,1 +1,1 @@
-The write up of this project will be completed by the end of October.
+The write up of these projects will be completed by the end of October.
