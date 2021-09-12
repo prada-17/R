@@ -4,7 +4,7 @@
  
  Bike Sharing Regression Assignment: We have created a regression model and then used the model to generate forecasts for the users contained in the test data.
  
- EOQ_Model: The project is divided into three legs.
+ EOQ_Model: The project is divided into two legs.
  Project_Leg1: Find the EOQ to get the sense of order sizes that should be used by the company.Compute the cycle time for each product in each warehouse.Approximate the rate of demand for each    
                product in each warehouse.
  Project_Leg2: Formulate and solve the optimization problem for the same company which will give us the optimal weekly transportation plan to minimize total shipping costs.
